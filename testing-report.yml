@@ -1,0 +1,25 @@
+---
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Удаление товара из корзины
+  status: pass
+
+- summary: |
+    Оформление заказа
+  status: pass
+
+- summary: |
+    Поиск товара по ключевому слову
+  status: pass
+
+- summary: |
+    Фильтрация товаров по производителю
+  status: pass
+
+- summary: |
+    Фильтрация товаров по цене
+  status: pass
+
