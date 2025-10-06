@@ -28,7 +28,7 @@ test-cases:
       Наличие формы входа и регистрации
     status: fail
 
-    - summary: |
+  - summary: |
       Очищение корзины после оформления заказа
     status: fail
 
