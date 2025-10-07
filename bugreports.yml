@@ -55,8 +55,9 @@
 - summary: |
     Кнопка "В корзину" имеет разный стиль отображения у разных товаров
   environment: |
-    Safari 18.3
-    macOS Sonoma 15.3 (MacBook Air M4, 2025)
+  Устройство: MacBook Air (M4, 2025)
+    ОС: macOS Sonoma 15.3
+    Браузер: Safari 18.3
   steps-to-reproduce: |
     1. Перейти на главную страницу интернет-магазина
     2. Просмотреть список товаров
