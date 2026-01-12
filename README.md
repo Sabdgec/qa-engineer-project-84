@@ -1,2 +1,12 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Sabdgec/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Sabdgec/qa-engineer-project-84/actions)
+# QA Engineer Project 84
+
+Учебный проект по тестированию интернет-магазина.
+
+## В проекте представлены:
+- функциональные требования (requirements.yml)
+- тест-кейсы (test-cases.yml)
+- баг-репорты (bugreports.yml)
+- отчёты о тестировании (testing-report.yml, regress-report.yml)
+
+## Цель проекта
+Проверка соответствия реализованного функционала требованиям, поиск дефектов и формирование QA-документации.
