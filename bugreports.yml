@@ -54,8 +54,8 @@
 
 - summary: |
     Кнопка "В корзину" имеет разный стиль отображения у разных товаров
-  environment: |
-  Устройство: MacBook Air (M4, 2025)
+    environment: |
+    Устройство: MacBook Air (M4, 2025)
     ОС: macOS Sonoma 15.3
     Браузер: Safari 18.3
   steps-to-reproduce: |
