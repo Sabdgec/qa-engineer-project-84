@@ -1,0 +1,7 @@
+project:
+  name: QA Engineer Project 84
+  description: >
+    Учебный QA-проект по тестированию интернет-магазина.
+    Содержит требования, тест-кейсы, баг-репорты и отчёты о тестировании.
+  author: Sabdgec
+  version: 1.0
