@@ -263,7 +263,7 @@
   prerequisites: |
     Устройство: MacBook, Браузер: Safari
   test-data: |
-    Язык = Русский / Español
+    Язык = Русский / Spanish
   steps:
     - Сменить язык на Русский или Español
     - Проверить меню, фильтры, карточки товаров
