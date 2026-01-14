@@ -14,7 +14,7 @@
   actual-result: |
     Корзина остаётся заполненной
   attachments:
-    - ![Не очищается корзина](https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/Запись%20экрана%202025-10-06%20в%2023.49.59.mov)
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/Запись%20экрана%202025-10-06%20в%2023.49.59.mov
 
 - summary: |
     После перехода на следующую страницу пользователь остаётся внизу
@@ -31,7 +31,7 @@
   actual-result: |
     Пользователь остаётся внизу страницы, приходится вручную прокручивать вверх
   attachments:
-    - ![Не работает автоматическая прокрутка страницы на верх](https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/Запись%20экрана%202025-10-06%20в%2023.49.35.mov)
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/Запись%20экрана%202025-10-06%20в%2023.49.35.mov
 
 - summary: |
     Кнопка "В корзину" имеет разный стиль отображения у разных товаров
