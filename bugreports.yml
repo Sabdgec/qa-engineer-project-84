@@ -47,7 +47,7 @@
   actual-result: |
     Кнопки имеют разный стиль, размеры и отступы; на мобильной версии верстка ломается
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/tree/main/artifacts/knopki_v_karzin
 
 - summary: |
     Фильтр по цене работает только на текущей странице
@@ -63,7 +63,7 @@
   actual-result: |
     Фильтр применяется только на текущей странице, на других страницах товары остаются без фильтра
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/filtr_po_cene.mov
 
 - summary: |
     Фильтр по производителю ломается при смене страниц
@@ -80,7 +80,7 @@
   actual-result: |
     Некоторые товары исчезают, элементы пропадают, верстка ломается
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/filtr_po_proizvod_lomaet.mov
 
 - summary: |
     Фильтр по наличию не работает при снятии галочки
@@ -96,7 +96,7 @@
   actual-result: |
     После снятия галочки все товары исчезают
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/filtr_po_nalich_lom.mov
 
 - summary: |
     Перевод интерфейса на русский и испанский работает частично
@@ -111,7 +111,7 @@
   actual-result: |
     Переводится только верхнее меню, кнопки "В корзину" и фильтр "от-до"; остальной интерфейс остаётся на английском
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/tree/main/artifacts/perevod_chast
     
 - summary: |
     Искажение верстки на мобильных устройствах
@@ -126,7 +126,7 @@
   actual-result: |
     Карточки товаров смещаются, элементы накладываются друг на друга, верстка ломается
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/tree/main/artifacts/iskazh_verstki
     
 - summary: |
     Переход на страницу оплаты отсутствует
@@ -142,7 +142,7 @@
   actual-result: |
     Переход на страницу оплаты не реализован
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/perexod_na_oplaty.mov
     
 - summary: |
     Съезжает количество товаров в корзине при добавлении нескольких товаров (испанский интерфейс)
@@ -161,4 +161,4 @@
   actual-result: |
     Количество товаров съезжает влево, выходит за пределы заданного расположения
   attachments:
-    -
+    - https://github.com/Sabdgec/qa-engineer-project-84/blob/main/artifacts/kovbo_v_korzine.png
